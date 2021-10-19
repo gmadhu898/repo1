@@ -1,0 +1,28 @@
+{
+	"Report_Data":[
+		{
+			"Report_Entry":{
+				"Employee_ID" : "EMP-13739",
+				"User_Name" : "johndoe",
+				"Email" : "johndoe@zillium.com",
+				"Manager" : {
+					"MGR_Employee_ID" : "EMP-00313",
+					"MGR_User_Name" : "tom",
+					"MGR_Email" : "tom.sawyer@zilliumco.uk"
+				}
+			}
+		},
+		{
+			"Report_Entry":{
+				"Employee_ID" : "EMP-14023",
+				"User_Name" : "janedoe",
+				"Email" : "janedoezillium.com",
+				"Manager" : {
+					"MGR_Employee_ID" : "EMP-00313",
+					"MGR_User_Name" : "tom",
+					"MGR_Email" : "tom.sawyer@zilliumco.uk"
+				}
+			}
+		}
+	]
+}
