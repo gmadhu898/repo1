@@ -20,5 +20,16 @@
    "Prior-Manager": "Janine Robinson",
    "Manager": "Madhu Rata",
    "MGR_Employee_ID": "EMP-00863"
+},
+{
+   "User_Name": "mcapkova",
+   "Email": "madhu.g@zohotest.com",
+   "MGR_User_Name": "jgraham",
+   "MGR_Email": "thomas@yahoo.co.in",
+   "Employee_ID": "EMP-00474",
+   "Worker": "Madhu Rata",
+   "Prior-Manager": "Janine Robinson",
+   "Manager": "Thomas",
+   "MGR_Employee_ID": "EMP-00863"
 }]
 }
