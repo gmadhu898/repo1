@@ -1,35 +1,24 @@
 {
 "Report_Entry": [{
    "User_Name": "jcurtis",
-   "Email": "umamahesh.k+requester@zohotest.com",
+   "Email": "James.Curtis@fnz.co.uk",
    "MGR_User_Name": "pjones",
-   "MGR_Email": "umamahesh.k+techedit@zohotest.com",
+   "MGR_Email": "paul.jones@fnz.co.uk",
    "Employee_ID": "EMP-01948",
-   "Worker": "UmaRequester",
+   "Worker": "James Curtis",
    "Prior-Manager": "Geraldine Brennan",
-   "Manager": "Uma Mahesh",
+   "Manager": "Paul Jones",
    "MGR_Employee_ID": "EMP-01956"
 },
 {
    "User_Name": "mcapkova",
-   "Email": "umamahesh.k+tech0@zohotest.com",
+   "Email": "Martina.Fildes@fnz.co.uk",
    "MGR_User_Name": "jgraham",
-   "MGR_Email": "umamahesh.k+techedit@zohotest.com",
+   "MGR_Email": "jeremy.graham@fnz.co.nz",
    "Employee_ID": "EMP-00474",
-   "Worker": "UmaTech0",
+   "Worker": "Martina Fildes (On Leave)",
    "Prior-Manager": "Janine Robinson",
-   "Manager": "Uma Mahesh",
-   "MGR_Employee_ID": "EMP-00863"
-},
-{
-   "User_Name": "mcapkova",
-   "Email": "umamahesh.k+techedit@zohotest.com",
-   "MGR_User_Name": "jgraham",
-   "MGR_Email": "umamahesh.k+001t@zohotest.com",
-   "Employee_ID": "EMP-00474",
-   "Worker": "Uma Mahesh",
-   "Prior-Manager": "Janine Robinson",
-   "Manager": "Uma001",
+   "Manager": "Jeremy Graham",
    "MGR_Employee_ID": "EMP-00863"
 }]
 }
